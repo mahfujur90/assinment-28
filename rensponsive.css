@@ -1,0 +1,19 @@
+@media(max-width:768px){
+    .padding{
+        padding: 0px 0px 70px 0px;
+    }
+    .serbice-1 {
+       
+        margin-bottom: 26px;
+    }
+}
+@media(max-width:576px){
+    .ex-width{
+        width: 300px;
+    }
+}
+@media(max-width:376px){
+    .ex-width{
+        width: 0px;
+    }
+}

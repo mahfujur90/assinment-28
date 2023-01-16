@@ -1,0 +1,80 @@
+.serbice-1{
+    background-color: #fff;
+    text-align: center;
+    text-transform: capitalize;
+    padding: 20px 0px;
+      
+}
+.serbice-1 h1{
+    background-color:#f9f9ff;
+    height: 90px;
+    width: 90px;
+    line-height: 90px;
+    border-radius: 50%;
+    display: inline-block;
+}
+ul{
+    padding: 0;
+    margin: 0;
+}
+li{
+    margin: 0;padding: 0;
+}
+.serbice-1 ul{
+    list-style: none;
+}
+.serbice-1 ul li{
+      color: #8f8f8fbe;
+      font-weight: 500;
+      font-size: 20px;
+}
+.button{
+    padding: 10px 25px;
+    border: 2px solid rgba(0, 0, 255, 0.596);
+    background-color: #fff;
+    border-radius: 5px;
+    text-transform: capitalize;
+    color: rgba(0, 0, 255, 0.674);
+    font-weight: 500;
+    font-size: 20px;
+    box-shadow: 1px 1px 30px 0px rgba(0, 0, 255, 0.299);
+}
+.card-item{
+   
+}
+.card-team{
+    padding: 0;
+    margin: 0;
+}
+.card-team img{
+    width: 80px;
+    height: auto;
+    margin-top: -120px;
+    margin-left: 20px;
+}
+.btn-2{
+    display: inline-block;
+     text-decoration: none;
+     padding: 5px 10px;
+     background-color: rgba(239, 231, 231, 0.249);
+     color: black;
+      border-radius: 10px;
+    text-transform: capitalize;
+   
+}
+.form-btn{
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #15a5ea;
+    border-radius: 5px;
+    text-transform: capitalize;
+    
+}
+.form-left{
+    margin-top: 113px;
+    margin-left: 40px;
+    text-transform: capitalize;
+    color: #5e6165;
+}
